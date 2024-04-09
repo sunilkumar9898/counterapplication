@@ -1,0 +1,24 @@
+.nav{
+    width: 100%;
+    background-color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.nav_link{
+display: flex;
+justify-content: space-around;
+color:whitesmoke ;
+width:100%;
+align-items: center;
+}
+a{
+    color: white;
+    list-style: none;
+    display:grid ;
+
+    place-items: center;
+    text-decoration: none;
+    margin: auto;
+
+}
